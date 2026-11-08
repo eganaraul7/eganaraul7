@@ -86,7 +86,7 @@ Sistema de parley completo.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=eganaraul7&show_icons=true&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&icon_color=8EC9FF&text_color=F3EDE2" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eganaraul7&layout=compact&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&text_color=F3EDE2" />
 
-<img src="https://streak-stats.demolab.com?user=eganaraul1&hide_border=true&background=0A0D12&ring=2D6BFF&fire=19C6E6&currStreakLabel=F3EDE2&sideLabels=8EC9FF&currStreakNum=F3EDE2&sideNums=F3EDE2&dates=9AA7BD" />
+<img src="https://streak-stats.demolab.com?user=eganaraul7&hide_border=true&background=0A0D12&ring=2D6BFF&fire=19C6E6&currStreakLabel=F3EDE2&sideLabels=8EC9FF&currStreakNum=F3EDE2&sideNums=F3EDE2&dates=9AA7BD" />
 
 </div>
 
@@ -96,7 +96,7 @@ Sistema de parley completo.
 
 **Cuéntame qué necesitas y lo construimos a tu medida.**
 
-[![Cotiza tu proyecto](https://img.shields.io/badge/Cotiza_tu_proyecto-2D6BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eganaraul7@gmail.com)
+[![Cotiza tu proyecto](https://img.shields.io/badge/Cotiza_tu_proyecto-2D6BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eganaraul1@gmail.com)
 [![Instagram DM](https://img.shields.io/badge/Escríbeme_por_Instagram-0B1F3A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/egana_raul)
 
 <img src="./footer.png" alt="Primero entiendo tu negocio. Después lo construyo." width="100%"/>
