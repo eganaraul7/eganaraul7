@@ -12,8 +12,8 @@
 [![X](https://img.shields.io/badge/X-@egana__raull-0A0D12?style=for-the-badge&logo=x&logoColor=white)](https://x.com/egana_raull)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raúl_Egaña-2D6BFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/egana_raul)
 
-![Visitas](https://komarev.com/ghpvc/?username=egana_raul&label=Visitas&color=2D6BFF&style=flat-square)
-![Seguidores](https://img.shields.io/github/followers/egana_raul?label=Seguidores&style=flat-square&color=0B1F3A&labelColor=0A0D12)
+![Visitas](https://komarev.com/ghpvc/?username=eganaraul7&label=Visitas&color=2D6BFF&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/eganaraul7?label=Seguidores&style=flat-square&color=0B1F3A&labelColor=0A0D12)
 
 </div>
 
