@@ -6,8 +6,8 @@
 **Desarrollador web en Ciudad Guayana, Venezuela 🇻🇪**
 *Código, creatividad y soluciones que impulsan negocios.*
 
-[![Instagram](https://img.shields.io/badge/Instagram-@egana__raul-0B1F3A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/egana_raul)
-[![TikTok](https://img.shields.io/badge/TikTok-@egana__raul-0A0D12?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@egana_raul)
+[![Instagram](https://img.shields.io/badge/Instagram-@egana__raull-0B1F3A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/egana_raull)
+[![TikTok](https://img.shields.io/badge/TikTok-@ralegaa1-0A0D12?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ralegaa1)
 [![YouTube](https://img.shields.io/badge/YouTube-@egana__raul-0B1F3A?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@egana_raul)
 [![X](https://img.shields.io/badge/X-@egana__raull-0A0D12?style=for-the-badge&logo=x&logoColor=white)](https://x.com/egana_raull)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raúl_Egaña-2D6BFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/egana_raul)
@@ -65,15 +65,15 @@
 **🏍️ Panda Biker**
 Proyecto web a la medida.
 `HTML` `CSS` `JS`
-[Ver repo →](https://github.com/egana_raul/NOMBRE-REPO)
+[Ver repo →](https://github.com/eganaraul7/PandaBiker)
 
 </td>
 <td width="50%">
 
-**📦 Sistema de inventario**
-Gestión de inventario, compras y proveedores.
-`PHP` `MySQL`
-[Ver repo →](https://github.com/egana_raul/NOMBRE-REPO)
+**📦 Tu Parley**
+Sistema de parley completo.
+`Nodejs` `React`
+[Ver repo →](https://github.com/eganaraul7/TuParley)
 
 </td>
 </tr>
@@ -83,10 +83,10 @@ Gestión de inventario, compras y proveedores.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=egana_raul&show_icons=true&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&icon_color=8EC9FF&text_color=F3EDE2" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egana_raul&layout=compact&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&text_color=F3EDE2" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eganaraul7&show_icons=true&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&icon_color=8EC9FF&text_color=F3EDE2" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eganaraul7&layout=compact&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&text_color=F3EDE2" />
 
-<img src="https://streak-stats.demolab.com?user=egana_raul&hide_border=true&background=0A0D12&ring=2D6BFF&fire=19C6E6&currStreakLabel=F3EDE2&sideLabels=8EC9FF&currStreakNum=F3EDE2&sideNums=F3EDE2&dates=9AA7BD" />
+<img src="https://streak-stats.demolab.com?user=eganaraul7&hide_border=true&background=0A0D12&ring=2D6BFF&fire=19C6E6&currStreakLabel=F3EDE2&sideLabels=8EC9FF&currStreakNum=F3EDE2&sideNums=F3EDE2&dates=9AA7BD" />
 
 </div>
 
