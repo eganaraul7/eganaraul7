@@ -83,8 +83,8 @@ Sistema de parley completo.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eganaraul1&show_icons=true&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&icon_color=8EC9FF&text_color=F3EDE2" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eganaraul1&layout=compact&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&text_color=F3EDE2" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eganaraul7&show_icons=true&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&icon_color=8EC9FF&text_color=F3EDE2" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eganaraul7&layout=compact&hide_border=true&bg_color=0A0D12&title_color=2D6BFF&text_color=F3EDE2" />
 
 <img src="https://streak-stats.demolab.com?user=eganaraul1&hide_border=true&background=0A0D12&ring=2D6BFF&fire=19C6E6&currStreakLabel=F3EDE2&sideLabels=8EC9FF&currStreakNum=F3EDE2&sideNums=F3EDE2&dates=9AA7BD" />
 
